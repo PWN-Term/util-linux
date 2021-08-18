@@ -65,6 +65,7 @@
 #include <sys/signalfd.h>
 #include <paths.h>
 #include <getopt.h>
+#include "missing.h"
 
 #if defined(HAVE_NCURSESW_TERM_H)
 # include <ncursesw/term.h>
